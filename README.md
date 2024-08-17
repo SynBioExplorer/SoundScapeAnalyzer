@@ -44,7 +44,7 @@ python AudioInsight.py
 
 Here’s how the graphical interface looks when you run the program:
 
-![GUI Example](/mnt/data/AudioInsight_GUI.png)
+![GUI Example](images/AudioInsight_GUI.png)
 
 ### Output File Structure
 
@@ -61,7 +61,7 @@ After processing, the script will generate output in a structured format like th
 
 Here’s an example of the resulting spectrogram produced for an audio file:
 
-![Spectrogram Example](/mnt/data/AudioInsight_Spectrogram.png)
+![Spectrogram Example](images/AudioInsight_Spectrogram.png)
 
 ### Directory Structure Example
 
